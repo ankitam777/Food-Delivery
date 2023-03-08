@@ -120,7 +120,7 @@
     height:100%;
     z-index: -1;
     opacity: 0.9;
-    background: url('/img/iphone.jpg')no-repeat center center/cover;
+    background: url('../img/iphone.jpg')no-repeat center center/cover;
 }
 #contact-box{
     display: flex;
